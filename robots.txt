@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jetsuapp.github.io/ssos-masterclass-jets-2026/sitemap.xml
